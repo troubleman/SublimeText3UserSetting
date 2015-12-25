@@ -1,0 +1,20 @@
+{
+    "browser":"C:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+
+    "build_action": "browser",
+
+    /*
+        Enable or not mathjax support.
+    */
+    "enable_mathjax": true,
+
+    /*
+        Enable uml support scripts: flowchart.js and sequence-diagram.js.
+    */
+    "enable_uml": true,
+
+    /*
+        Enable highlighting. This enables codehilite extension if not already enabled.
+    */
+    "enable_highlight": false,
+}
